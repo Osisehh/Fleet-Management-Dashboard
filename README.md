@@ -66,6 +66,10 @@ These allow stakeholders to **quickly answer key business questions** at both a 
   - KM traveled
   - Liters used
   - Cost metrics
+ 
+Driver Insight Dashboard
+
+![Driver Insight Dashboard](https://github.com/Osisehh/Fleet-Management-Dashboard/blob/main/Dashboard%20Images/Driver%20Insight%20Image.png)
 
 ### 💰 Revenue Insight View
 - **$485M** total revenue  
@@ -76,7 +80,15 @@ These allow stakeholders to **quickly answer key business questions** at both a 
   - **2%** one-time purchases  
 - Revenue Breakdown:
   - By U.S. State (Map Chart)  
-  - By City (Bar Chart toggle)  
+  - By City (Bar Chart toggle)
+ 
+Revenue Insight Dashboard
+<p align="center">
+  <img src="Dashboard Images/Revenue Insight Image 1.png" width="49%" />
+  <img src="Dashboard Images/Revenue Insight Image 2.png" width="49%" />
+</p>
+
+
 
 > ✅ Seamless toggle (via VBA) between state-level Map Chart and city-level Bar Chart.
 
@@ -147,8 +159,3 @@ These allow stakeholders to **quickly answer key business questions** at both a 
 This project shows how **Excel**, when used creatively, becomes more than a spreadsheet tool — it becomes a **decision engine**. Built for operations managers and business analysts, this dashboard enables faster, smarter insights without needing to scroll through endless rows of data.
 
 > ✅ It’s interactive, professional, and designed for real business impact.
-
----
-
-## 📷 Screenshots  
-*(Add screenshots here if available)*  
