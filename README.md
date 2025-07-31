@@ -159,3 +159,8 @@ Revenue Insight Dashboard
 This project shows how **Excel**, when used creatively, becomes more than a spreadsheet tool — it becomes a **decision engine**. Built for operations managers and business analysts, this dashboard enables faster, smarter insights without needing to scroll through endless rows of data.
 
 > ✅ It’s interactive, professional, and designed for real business impact.
+
+---
+** You can Read the Full Report on Medium Here: **
+
+https://medium.com/@osisehh/from-raw-data-to-executive-insights-my-excel-dashboard-for-fleet-operations-b591b9c0501e
